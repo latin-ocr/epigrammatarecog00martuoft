@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./epigrammatarecog00martuoft/epigrammatarecog00martuoft_0032.png"; bbox 0 0 1684 2715; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 869 0 1684 2709">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 869 0 1684 2709">
+     <span class='ocr_line' id='line_1_1' title="bbox 869 0 1684 2709"><span class='ocrx_word' id='word_1_1' title='bbox 869 0 1684 2709; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 694 16 841 905">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 802 40 841 138">
+     <span class='ocr_line' id='line_1_2' title="bbox 802 40 841 138"><span class='ocrx_word' id='word_1_2' title='bbox 802 40 830 77; x_wconf 52' lang='grc' dir='ltr'>ψη</span> <span class='ocrx_word' id='word_1_3' title='bbox 828 99 841 138; x_wconf 76' lang='grc' dir='ltr'>Ξ</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 778 42 817 133">
+     <span class='ocr_line' id='line_1_3' title="bbox 778 42 817 133; baseline -91 2639"><span class='ocrx_word' id='word_1_4' title='bbox 778 42 810 74; x_wconf 53' lang='lat' dir='ltr'>‚a</span> <span class='ocrx_word' id='word_1_5' title='bbox 807 103 817 133; x_wconf 84' lang='lat'>.-</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 694 16 814 905">
+     <span class='ocr_line' id='line_1_4' title="bbox 740 54 814 905"><span class='ocrx_word' id='word_1_6' title='bbox 740 54 778 130; x_wconf 45' lang='lat'>‚„·01</span> <span class='ocrx_word' id='word_1_7' title='bbox 801 897 814 905; x_wconf 57' lang='lat' dir='ltr'>s</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 694 16 752 174; baseline 158 -2054"><span class='ocrx_word' id='word_1_8' title='bbox 694 16 747 132; x_wconf 32' lang='lat' dir='ltr'>»fist-vl</span> <span class='ocrx_word' id='word_1_9' title='bbox 735 171 752 174; x_wconf 82' lang='lat'><em>.</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
